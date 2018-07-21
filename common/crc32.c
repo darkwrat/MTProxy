@@ -28,7 +28,7 @@
 #include <math.h>
 
 #include "crc32.h"
-#include "common/cpuid.h"
+#include "common/_cpuid.h"
 #include "common/kprintf.h"
 
 

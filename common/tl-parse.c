@@ -40,7 +40,7 @@
 #include "net/net-tcp-rpc-server.h"
 
 
-#include "common/cpuid.h"
+#include "common/_cpuid.h"
 #include "common/kprintf.h"
 #include "common/server-functions.h"
 

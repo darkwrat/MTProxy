@@ -30,7 +30,7 @@
 
 #include "crc32c.h"
 #include "kprintf.h"
-#include "cpuid.h"
+#include "_cpuid.h"
 
 static unsigned crc32c_table[256] = {
 0x00000000, 0xf26b8303, 0xe13b70f7, 0x1350f3f4,

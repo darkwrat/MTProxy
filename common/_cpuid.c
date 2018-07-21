@@ -21,7 +21,7 @@
 #include <assert.h>
 #include <cpuid.h>
 
-#include "cpuid.h"
+#include "_cpuid.h"
 
 
 #define CPUID_MAGIC 0x280147b8

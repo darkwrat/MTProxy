@@ -25,7 +25,7 @@
 #include <assert.h>
 #include <string.h>
 #include <stdint.h>
-#include "common/cpuid.h"
+#include "common/_cpuid.h"
 
 #include <openssl/opensslv.h>
 
